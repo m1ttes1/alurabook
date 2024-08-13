@@ -1,5 +1,6 @@
 # AluraBooks
 Versão Live: https://m1ttes1.github.io/alurabook/
+
 AluraBooks é um projeto web criado para exemplificar a criação de um site com foco em livros e recursos educacionais. O objetivo deste projeto é demonstrar habilidades em desenvolvimento web, incluindo a implementação de um design responsivo e interatividade utilizando HTML, CSS e JavaScript.
 
 ## Funcionalidades
